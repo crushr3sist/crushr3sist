@@ -16,4 +16,4 @@ Computer Science @ University of Southern Queensland - last trimester
 
 Systems architecture, concurrency patterns, fault-tolerant design, and the practical trade-offs in distributed systems. Particularly interested in problems where single-machine solutions can outperform distributed ones through better engineering.
 
-**Tech:** Rust, C++, Java, Python, Go, TypeScript | PostgreSQL, Redis, RabbitMQ, Nginx | Docker, Docker-Compose, Linux
+**Tech:** Rust, C++, Java, Python, Go, TypeScript · PostgreSQL, Redis, RabbitMQ, Nginx · Docker, Docker-Compose, Linux
