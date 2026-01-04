@@ -2,7 +2,7 @@
 
 **Systems-focused software engineer building fault-tolerant infrastructure and high-performance backends.**
 
-Computer Science @ University of Southern Queensland - last trimester :p
+Computer Science @ University of Southern Queensland - last trimester
 
 ### What I'm Building
 
